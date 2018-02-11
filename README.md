@@ -1,1 +1,2 @@
 # hello-world
+I have always had an interest in computers and even attempted to go to school for computer science, but I would say that I am pretty new to programming and CS in general. I am currently trying to learn full-stack web development as a way to get introduced to coding and possibly provide some income on the side. I will be having my second go at college this spring for CS again, and I plan on focusing on macine-learning and artificial intelligence.
